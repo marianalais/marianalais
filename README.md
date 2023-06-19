@@ -1,8 +1,8 @@
 ### Olá pessoal! 👋
 Desde que iniciei minha jornada profissional, sempre fui apaixonada por tecnologia, softwares e desenvolvimento de projetos. Por este motivo, estou dedicada a estudos de programação e motivada a investir no meu crescimento pessoal e profissional dentro desta área.
-<div class="tenor-gif-embed" data-postid="21481919" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-- 🌱 Atualmente estou estudando na Labenu 
-- 👯 Estou procurando desenvolver projetos para o meu aprendizado
+
+- 🌱 Atualmente estou estudando na Labenu para me tornar desenvolvedora Web Full Stack.
+
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" />
