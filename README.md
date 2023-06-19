@@ -1,7 +1,7 @@
 ### Olá pessoal! 👋
 Desde que iniciei minha jornada profissional, sempre fui apaixonada por tecnologia, softwares e desenvolvimento de projetos. Por este motivo, estou dedicada a estudos de programação e motivada a investir no meu crescimento pessoal e profissional dentro desta área.
 
-- 🌱 Atualmente estou estudando na Labenu para me tornar desenvolvedora Web Full Stack.
+- 🌱 Atualmente estudo na Labenu para me tornar desenvolvedora Web Full Stack.
 
 
 ## Ferramentas e Tecnologias
